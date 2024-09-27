@@ -1,0 +1,5 @@
+boxnod = 64 64 64
+boxlen = 20. 20. 20.
+mmax = 3
+temperature = 298.15
+minimizer = benchmark

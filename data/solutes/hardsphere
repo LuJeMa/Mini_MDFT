@@ -1,0 +1,4 @@
+#    Hard    sphere 
+1
+#    charge     sigma     epsilon       x      y    z   Zatomic   Atom Name  Surname
+1    0.00000    0.00000  0.0000000     0.1   0.10  0.0    16        HS   HS
